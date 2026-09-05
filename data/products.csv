@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Wireless Mouse,Electronics,25.99
+P002,USB-C Charger,Electronics,19.99
+P003,Notebook A4,Stationery,2.5
+P004,Bluetooth Speaker,Electronics,45.0
+P005,Ballpoint Pen,Stationery,0.99
+P006,Desk Lamp,Furniture,15.75
+P007,Coffee Mug,Kitchen,5.99
+P008,Water Bottle,Kitchen,9.5
+P009,Backpack,Accessories,29.9
+P010,Office Chair,Furniture,85.0
